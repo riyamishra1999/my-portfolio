@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    background: transparent;
+    
+}
+
+body{
+  
+    background-color: #987d8c;
+    color: #cdc1c0;
+    overflow: hidden;  /*something doesnot fit then set the overflow to hidden */
+    overflow-y: scroll;  /* to make overflow scrollable in vertical direction is y */
+
+}
